@@ -1,4 +1,4 @@
-# ✨ ĐƯỢC THỰC HIỆN BỞI HUỲNH THANH DANH ✨  
+# ✨ ĐƯỢC THỰC HIỆN BỞI BỘ 3 NGUYÊN TỬ ✨  
 
 [![GitHub Stars](https://img.shields.io/github/stars/codewithc?style=social)](https://github.com/codewithc)  
 🔗 **Nguồn**: [www.codewithc.com](https://www.codewithc.com)
