@@ -1,4 +1,4 @@
-# ✨ Cảm ơn bạn đã sử dụng Code with C ✨  
+# ✨ ĐƯỢC THỰC HIỆN BỞI HUỲNH THANH DANH ✨  
 🔗 [Nguồn: www.codewithc.com](https://www.codewithc.com)
 
 ## 👨‍💻 Dự án thực hiện bởi **Nhóm 4**
