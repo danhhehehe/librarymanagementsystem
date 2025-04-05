@@ -12,7 +12,7 @@
 |----------------------|---------------------|
 | 🧑‍💼 **Huỳnh Thanh Danh**     | Leader, chính sửa nội dung, hướng dẫn Git, Code, tìm hiểu GitHub Workflow, Viết tài liệu, hỗ trợ test nhóm |
 | 🧑‍💼 **Lê Quốc Hùng**         | Code, tìm hiểu GitHub Workflow, Viết tài liệu, hỗ trợ test nhóm |
-| 🧑‍💼 **Phạm Phi Dân**         | Viết tài liệu, hỗ trợ test nhóm, PPT, Viết tài liệu, hỗ trợ test nhóm |
+| 🧑‍💼 **Phạm Phi Dân**         | Viết tài liệu, hỗ trợ test nhóm, PPT, Viết tài liệu, hỗ trợ code |
 | 🧑‍💼 **Nguyễn Đoàn Đông Anh** | Đóng góp |
 
 ---
